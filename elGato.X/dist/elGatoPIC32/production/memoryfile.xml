@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/elGatoPIC32/production/elGato.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>525440</length>                 
+      <used>7288</used>                     
+      <free>518152</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>12</used>                     
+      <free>131060</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
